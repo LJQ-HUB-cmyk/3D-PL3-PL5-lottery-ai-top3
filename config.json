@@ -20,13 +20,13 @@
     "transition": 0.16
   },
   "model_weights": {
-    "legacy": 0.3014,
-    "markov": 0.2681,
-    "bayes": 0.2621,
-    "shape": 0.1683
+    "legacy": 0.2968,
+    "markov": 0.2661,
+    "bayes": 0.2628,
+    "shape": 0.1743
   },
   "signal_weight": 0.18,
-  "expert_signal_weight": 0.0732,
+  "expert_signal_weight": 0.0757,
   "expert_sources": {
     "fc3d": [
       {
