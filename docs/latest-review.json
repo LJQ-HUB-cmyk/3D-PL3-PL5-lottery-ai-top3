@@ -1,6 +1,6 @@
 {
   "date": "2026-05-10",
-  "created_at": "2026-05-10T22:11:54",
+  "created_at": "2026-05-10T23:30:45",
   "results": {
     "fc3d": {
       "name": "中国福利彩票 3D",
@@ -200,18 +200,18 @@
   },
   "iteration_update": {
     "model_weights_before": {
-      "legacy": 0.3014,
-      "markov": 0.2681,
-      "bayes": 0.2621,
-      "shape": 0.1683
-    },
-    "model_weights_after": {
       "legacy": 0.2968,
       "markov": 0.2661,
       "bayes": 0.2628,
       "shape": 0.1743
     },
-    "expert_signal_weight_before": 0.0732,
-    "expert_signal_weight_after": 0.0757
+    "model_weights_after": {
+      "legacy": 0.2925,
+      "markov": 0.2643,
+      "bayes": 0.2635,
+      "shape": 0.1798
+    },
+    "expert_signal_weight_before": 0.0757,
+    "expert_signal_weight_after": 0.0782
   }
 }
