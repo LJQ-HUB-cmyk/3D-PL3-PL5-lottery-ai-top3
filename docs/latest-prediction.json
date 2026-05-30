@@ -1,6 +1,6 @@
 {
   "date": "2026-05-30",
-  "created_at": "2026-05-30T20:11:58",
+  "created_at": "2026-05-30T23:45:48",
   "lotteries": {
     "fc3d": {
       "name": "中国福利彩票 3D",
@@ -16,10 +16,10 @@
         "transition": 0.16
       },
       "model_weights": {
-        "legacy": 0.1906,
-        "markov": 0.2252,
-        "bayes": 0.2033,
-        "shape": 0.3809
+        "legacy": 0.1863,
+        "markov": 0.2246,
+        "bayes": 0.204,
+        "shape": 0.3851
       },
       "trend_summary": {
         "recent_window": 30,
@@ -46,7 +46,7 @@
       },
       "pre_draw_signals": {
         "source": "https://www.17500.cn/",
-        "issue_hint": "139",
+        "issue_hint": "140",
         "draw_number": "140",
         "machine_number": "184",
         "test_number": "834",
@@ -98,17 +98,17 @@
           "字谜_乐彩网 [登录/注册] 手机乐彩网 扫码|点击 访问手机乐彩网 乐彩网APP 扫码下载乐彩网安卓APP 下载 查看 网站地图 联系客服 在线客服 400801",
           "字谜 学习彩票 彩皇网 足球 福彩3D 双色球 快乐8 七乐彩 排列3 排列5 大乐透 7星彩 全国彩票 六省联销 福彩15选5 东方6+1 上海 上海15选5 上"
         ],
-        "weight": 0.0745
+        "weight": 0.0753
       },
       "candidates": [
         {
           "rank": 1,
           "number": "580",
-          "score": -5.145459,
+          "score": -5.136471,
           "sum": 13,
           "span": 8,
           "models": {
-            "legacy": -6.1657,
+            "legacy": -6.1652,
             "markov": -5.6422,
             "bayes": -5.6913,
             "shape": -4.0499
@@ -117,11 +117,11 @@
         {
           "rank": 2,
           "number": "550",
-          "score": -5.395843,
+          "score": -5.384333,
           "sum": 10,
           "span": 5,
           "models": {
-            "legacy": -6.9298,
+            "legacy": -6.9291,
             "markov": -5.3183,
             "bayes": -6.5654,
             "shape": -4.0499
@@ -130,11 +130,11 @@
         {
           "rank": 3,
           "number": "880",
-          "score": -5.374688,
+          "score": -5.362185,
           "sum": 16,
           "span": 8,
           "models": {
-            "legacy": -6.879,
+            "legacy": -6.8786,
             "markov": -6.2048,
             "bayes": -5.5269,
             "shape": -4.0499
@@ -143,11 +143,11 @@
         {
           "rank": 4,
           "number": "581",
-          "score": -5.450952,
+          "score": -5.435962,
           "sum": 14,
           "span": 7,
           "models": {
-            "legacy": -6.8819,
+            "legacy": -6.8812,
             "markov": -6.9027,
             "bayes": -6.2481,
             "shape": -3.4511
@@ -156,11 +156,11 @@
         {
           "rank": 5,
           "number": "560",
-          "score": -5.20475,
+          "score": -5.193284,
           "sum": 11,
           "span": 6,
           "models": {
-            "legacy": -6.5652,
+            "legacy": -6.5647,
             "markov": -5.6422,
             "bayes": -6.0611,
             "shape": -3.8083
@@ -169,11 +169,11 @@
         {
           "rank": 6,
           "number": "280",
-          "score": -5.224546,
+          "score": -5.210957,
           "sum": 10,
           "span": 8,
           "models": {
-            "legacy": -7.0083,
+            "legacy": -7.0078,
             "markov": -5.6422,
             "bayes": -5.743,
             "shape": -3.8083
@@ -182,11 +182,11 @@
         {
           "rank": 7,
           "number": "680",
-          "score": -5.241229,
+          "score": -5.230762,
           "sum": 14,
           "span": 8,
           "models": {
-            "legacy": -6.5306,
+            "legacy": -6.5301,
             "markov": -5.6422,
             "bayes": -5.8203,
             "shape": -4.0499
@@ -195,11 +195,11 @@
         {
           "rank": 8,
           "number": "780",
-          "score": -5.287909,
+          "score": -5.275304,
           "sum": 15,
           "span": 8,
           "models": {
-            "legacy": -6.6984,
+            "legacy": -6.698,
             "markov": -6.2048,
             "bayes": -5.722,
             "shape": -3.8083
@@ -208,11 +208,11 @@
         {
           "rank": 9,
           "number": "683",
-          "score": -5.377915,
+          "score": -5.363238,
           "sum": 17,
           "span": 5,
           "models": {
-            "legacy": -7.1672,
+            "legacy": -7.1666,
             "markov": -5.8053,
             "bayes": -6.5321,
             "shape": -3.6138
@@ -221,11 +221,11 @@
         {
           "rank": 10,
           "number": "520",
-          "score": -5.398624,
+          "score": -5.385418,
           "sum": 7,
           "span": 5,
           "models": {
-            "legacy": -7.2733,
+            "legacy": -7.2726,
             "markov": -5.3183,
             "bayes": -6.257,
             "shape": -4.0499
@@ -234,11 +234,11 @@
         {
           "rank": 11,
           "number": "510",
-          "score": -5.398906,
+          "score": -5.385844,
           "sum": 6,
           "span": 5,
           "models": {
-            "legacy": -7.1544,
+            "legacy": -7.1537,
             "markov": -5.6422,
             "bayes": -6.011,
             "shape": -4.0499
@@ -247,11 +247,11 @@
         {
           "rank": 12,
           "number": "650",
-          "score": -5.401095,
+          "score": -5.387095,
           "sum": 11,
           "span": 6,
           "models": {
-            "legacy": -7.3027,
+            "legacy": -7.3022,
             "markov": -5.3183,
             "bayes": -6.6943,
             "shape": -3.8083
@@ -260,11 +260,11 @@
         {
           "rank": 13,
           "number": "080",
-          "score": -5.417967,
+          "score": -5.401941,
           "sum": 8,
           "span": 8,
           "models": {
-            "legacy": -7.4789,
+            "legacy": -7.4785,
             "markov": -6.2048,
             "bayes": -5.63,
             "shape": -3.8083
@@ -273,11 +273,11 @@
         {
           "rank": 14,
           "number": "584",
-          "score": -5.427383,
+          "score": -5.414075,
           "sum": 17,
           "span": 4,
           "models": {
-            "legacy": -6.6301,
+            "legacy": -6.6297,
             "markov": -6.9027,
             "bayes": -6.0634,
             "shape": -3.6138
@@ -286,11 +286,11 @@
         {
           "rank": 15,
           "number": "660",
-          "score": -5.441118,
+          "score": -5.428096,
           "sum": 12,
           "span": 6,
           "models": {
-            "legacy": -7.1849,
+            "legacy": -7.1845,
             "markov": -5.6422,
             "bayes": -6.19,
             "shape": -4.0499
@@ -299,11 +299,11 @@
         {
           "rank": 16,
           "number": "260",
-          "score": -5.449629,
+          "score": -5.436003,
           "sum": 8,
           "span": 6,
           "models": {
-            "legacy": -7.312,
+            "legacy": -7.3115,
             "markov": -5.6422,
             "bayes": -6.1128,
             "shape": -4.0499
@@ -312,11 +312,11 @@
         {
           "rank": 17,
           "number": "583",
-          "score": -5.450556,
+          "score": -5.439137,
           "sum": 16,
           "span": 5,
           "models": {
-            "legacy": -6.8145,
+            "legacy": -6.8138,
             "markov": -5.8053,
             "bayes": -6.4031,
             "shape": -4.0499
@@ -325,11 +325,11 @@
         {
           "rank": 18,
           "number": "570",
-          "score": -5.463643,
+          "score": -5.451843,
           "sum": 12,
           "span": 7,
           "models": {
-            "legacy": -6.8118,
+            "legacy": -6.8111,
             "markov": -6.1245,
             "bayes": -6.1165,
             "shape": -4.0499
@@ -338,11 +338,11 @@
         {
           "rank": 19,
           "number": "283",
-          "score": -5.476499,
+          "score": -5.461719,
           "sum": 13,
           "span": 6,
           "models": {
-            "legacy": -7.3783,
+            "legacy": -7.3778,
             "markov": -5.8053,
             "bayes": -6.4548,
             "shape": -3.8083
@@ -351,11 +351,11 @@
         {
           "rank": 20,
           "number": "480",
-          "score": -5.488313,
+          "score": -5.474005,
           "sum": 12,
           "span": 8,
           "models": {
-            "legacy": -7.322,
+            "legacy": -7.3216,
             "markov": -6.2048,
             "bayes": -5.6704,
             "shape": -4.0499
@@ -366,11 +366,11 @@
         {
           "rank": 1,
           "number": "580",
-          "score": -5.145459,
+          "score": -5.136471,
           "sum": 13,
           "span": 8,
           "models": {
-            "legacy": -6.1657,
+            "legacy": -6.1652,
             "markov": -5.6422,
             "bayes": -5.6913,
             "shape": -4.0499
@@ -379,11 +379,11 @@
         {
           "rank": 2,
           "number": "550",
-          "score": -5.395843,
+          "score": -5.384333,
           "sum": 10,
           "span": 5,
           "models": {
-            "legacy": -6.9298,
+            "legacy": -6.9291,
             "markov": -5.3183,
             "bayes": -6.5654,
             "shape": -4.0499
@@ -392,11 +392,11 @@
         {
           "rank": 3,
           "number": "880",
-          "score": -5.374688,
+          "score": -5.362185,
           "sum": 16,
           "span": 8,
           "models": {
-            "legacy": -6.879,
+            "legacy": -6.8786,
             "markov": -6.2048,
             "bayes": -5.5269,
             "shape": -4.0499
@@ -419,10 +419,10 @@
         "transition": 0.14
       },
       "model_weights": {
-        "legacy": 0.1897,
-        "markov": 0.2258,
-        "bayes": 0.2054,
-        "shape": 0.3791
+        "legacy": 0.1853,
+        "markov": 0.2252,
+        "bayes": 0.2061,
+        "shape": 0.3833
       },
       "trend_summary": {
         "recent_window": 30,
@@ -449,7 +449,7 @@
       },
       "pre_draw_signals": {
         "source": "https://www.17500.cn/",
-        "issue_hint": "139",
+        "issue_hint": "140",
         "draw_number": "140",
         "machine_number": "184",
         "test_number": "834",
@@ -460,7 +460,7 @@
         {
           "rank": 1,
           "number": "643",
-          "score": -5.066049,
+          "score": -5.057616,
           "sum": 13,
           "span": 3,
           "models": {
@@ -473,7 +473,7 @@
         {
           "rank": 2,
           "number": "633",
-          "score": -5.352273,
+          "score": -5.340272,
           "sum": 12,
           "span": 3,
           "models": {
@@ -486,7 +486,7 @@
         {
           "rank": 3,
           "number": "943",
-          "score": -5.223993,
+          "score": -5.213755,
           "sum": 16,
           "span": 6,
           "models": {
@@ -499,7 +499,7 @@
         {
           "rank": 4,
           "number": "343",
-          "score": -5.457195,
+          "score": -5.441376,
           "sum": 10,
           "span": 1,
           "models": {
@@ -512,7 +512,7 @@
         {
           "rank": 5,
           "number": "693",
-          "score": -5.367006,
+          "score": -5.353212,
           "sum": 18,
           "span": 6,
           "models": {
@@ -525,7 +525,7 @@
         {
           "rank": 6,
           "number": "543",
-          "score": -5.403172,
+          "score": -5.388565,
           "sum": 12,
           "span": 2,
           "models": {
@@ -538,7 +538,7 @@
         {
           "rank": 7,
           "number": "673",
-          "score": -5.403358,
+          "score": -5.390489,
           "sum": 16,
           "span": 4,
           "models": {
@@ -551,7 +551,7 @@
         {
           "rank": 8,
           "number": "638",
-          "score": -5.433669,
+          "score": -5.419434,
           "sum": 17,
           "span": 5,
           "models": {
@@ -564,7 +564,7 @@
         {
           "rank": 9,
           "number": "603",
-          "score": -5.466518,
+          "score": -5.453823,
           "sum": 9,
           "span": 6,
           "models": {
@@ -577,7 +577,7 @@
         {
           "rank": 10,
           "number": "243",
-          "score": -5.477108,
+          "score": -5.462186,
           "sum": 9,
           "span": 2,
           "models": {
@@ -590,7 +590,7 @@
         {
           "rank": 11,
           "number": "648",
-          "score": -5.482534,
+          "score": -5.47053,
           "sum": 18,
           "span": 4,
           "models": {
@@ -603,7 +603,7 @@
         {
           "rank": 12,
           "number": "743",
-          "score": -5.490792,
+          "score": -5.478755,
           "sum": 14,
           "span": 4,
           "models": {
@@ -616,7 +616,7 @@
         {
           "rank": 13,
           "number": "933",
-          "score": -5.501197,
+          "score": -5.484399,
           "sum": 15,
           "span": 6,
           "models": {
@@ -629,7 +629,7 @@
         {
           "rank": 14,
           "number": "938",
-          "score": -5.545274,
+          "score": -5.527104,
           "sum": 20,
           "span": 6,
           "models": {
@@ -642,7 +642,7 @@
         {
           "rank": 15,
           "number": "043",
-          "score": -5.558473,
+          "score": -5.542911,
           "sum": 7,
           "span": 4,
           "models": {
@@ -655,7 +655,7 @@
         {
           "rank": 16,
           "number": "653",
-          "score": -5.560448,
+          "score": -5.548923,
           "sum": 14,
           "span": 3,
           "models": {
@@ -668,7 +668,7 @@
         {
           "rank": 17,
           "number": "963",
-          "score": -5.578501,
+          "score": -5.560985,
           "sum": 18,
           "span": 6,
           "models": {
@@ -681,7 +681,7 @@
         {
           "rank": 18,
           "number": "948",
-          "score": -5.579177,
+          "score": -5.563582,
           "sum": 21,
           "span": 5,
           "models": {
@@ -694,7 +694,7 @@
         {
           "rank": 19,
           "number": "637",
-          "score": -5.581572,
+          "score": -5.567966,
           "sum": 16,
           "span": 4,
           "models": {
@@ -707,7 +707,7 @@
         {
           "rank": 20,
           "number": "843",
-          "score": -5.588926,
+          "score": -5.575575,
           "sum": 15,
           "span": 5,
           "models": {
@@ -722,7 +722,7 @@
         {
           "rank": 1,
           "number": "643",
-          "score": -5.066049,
+          "score": -5.057616,
           "sum": 13,
           "span": 3,
           "models": {
@@ -735,7 +735,7 @@
         {
           "rank": 2,
           "number": "633",
-          "score": -5.352273,
+          "score": -5.340272,
           "sum": 12,
           "span": 3,
           "models": {
@@ -748,7 +748,7 @@
         {
           "rank": 3,
           "number": "943",
-          "score": -5.223993,
+          "score": -5.213755,
           "sum": 16,
           "span": 6,
           "models": {
@@ -775,10 +775,10 @@
         "transition": 0.14
       },
       "model_weights": {
-        "legacy": 0.1904,
-        "markov": 0.2086,
-        "bayes": 0.1899,
-        "shape": 0.4111
+        "legacy": 0.186,
+        "markov": 0.208,
+        "bayes": 0.1906,
+        "shape": 0.4154
       },
       "trend_summary": {
         "recent_window": 30,
@@ -805,7 +805,7 @@
       },
       "pre_draw_signals": {
         "source": "https://www.17500.cn/",
-        "issue_hint": "139",
+        "issue_hint": "140",
         "machine_number": "18414",
         "test_number": "83414",
         "focus_number": "75614"
@@ -827,13 +827,13 @@
           "字谜 图谜 条件 廊坊鸿运 949499 2.00元 阿郎赫赫哩呐 爱心角落 白鱼舟 铂金彩D 彩多星 重庆陈哥 潮人永恒22 大光光 带子入朝 福娃债主 奉旨拿奖",
           "和值预测 和尾预测 跨度预测 胆码预测 定位分析 号码预测 投注技巧 推荐 专家杀号 机选 选号 于海滨杀码 钱王点评 詹天佑点评 开奖号 胆拖 复式玩法 开奖信息"
         ],
-        "weight": 0.0745
+        "weight": 0.0753
       },
       "candidates": [
         {
           "rank": 1,
           "number": "94333",
-          "score": -7.109696,
+          "score": -7.087792,
           "sum": 22,
           "span": 6,
           "models": {
@@ -846,7 +846,7 @@
         {
           "rank": 2,
           "number": "63339",
-          "score": -7.577373,
+          "score": -7.549877,
           "sum": 24,
           "span": 6,
           "models": {
@@ -859,7 +859,7 @@
         {
           "rank": 3,
           "number": "67312",
-          "score": -7.563716,
+          "score": -7.53496,
           "sum": 19,
           "span": 6,
           "models": {
@@ -872,7 +872,7 @@
         {
           "rank": 4,
           "number": "64813",
-          "score": -7.242305,
+          "score": -7.222827,
           "sum": 22,
           "span": 7,
           "models": {
@@ -885,7 +885,7 @@
         {
           "rank": 5,
           "number": "69313",
-          "score": -7.272116,
+          "score": -7.247404,
           "sum": 22,
           "span": 8,
           "models": {
@@ -898,7 +898,7 @@
         {
           "rank": 6,
           "number": "64323",
-          "score": -7.372119,
+          "score": -7.348899,
           "sum": 18,
           "span": 4,
           "models": {
@@ -911,7 +911,7 @@
         {
           "rank": 7,
           "number": "96313",
-          "score": -7.394251,
+          "score": -7.367678,
           "sum": 22,
           "span": 8,
           "models": {
@@ -924,7 +924,7 @@
         {
           "rank": 8,
           "number": "64319",
-          "score": -7.394761,
+          "score": -7.369719,
           "sum": 23,
           "span": 8,
           "models": {
@@ -937,7 +937,7 @@
         {
           "rank": 9,
           "number": "94312",
-          "score": -7.404848,
+          "score": -7.381437,
           "sum": 19,
           "span": 8,
           "models": {
@@ -950,7 +950,7 @@
         {
           "rank": 10,
           "number": "24833",
-          "score": -7.407416,
+          "score": -7.382341,
           "sum": 20,
           "span": 6,
           "models": {
@@ -963,7 +963,7 @@
         {
           "rank": 11,
           "number": "64332",
-          "score": -7.438774,
+          "score": -7.414369,
           "sum": 18,
           "span": 4,
           "models": {
@@ -975,21 +975,21 @@
         },
         {
           "rank": 12,
-          "number": "64831",
-          "score": -7.475551,
-          "sum": 22,
-          "span": 7,
+          "number": "60333",
+          "score": -7.450372,
+          "sum": 15,
+          "span": 6,
           "models": {
-            "legacy": -9.1304,
-            "markov": -10.3296,
-            "bayes": -10.0123,
-            "shape": -4.0891
+            "legacy": -10.4922,
+            "markov": -9.1933,
+            "bayes": -10.4424,
+            "shape": -3.8428
           }
         },
         {
           "rank": 13,
           "number": "94513",
-          "score": -7.476065,
+          "score": -7.450634,
           "sum": 22,
           "span": 8,
           "models": {
@@ -1001,21 +1001,21 @@
         },
         {
           "rank": 14,
-          "number": "60333",
-          "score": -7.47822,
-          "sum": 15,
-          "span": 6,
+          "number": "64831",
+          "score": -7.453771,
+          "sum": 22,
+          "span": 7,
           "models": {
-            "legacy": -10.4922,
-            "markov": -9.1933,
-            "bayes": -10.4424,
-            "shape": -3.8428
+            "legacy": -9.1304,
+            "markov": -10.3296,
+            "bayes": -10.0123,
+            "shape": -4.0891
           }
         },
         {
           "rank": 15,
           "number": "94823",
-          "score": -7.487385,
+          "score": -7.4628,
           "sum": 26,
           "span": 7,
           "models": {
@@ -1028,7 +1028,7 @@
         {
           "rank": 16,
           "number": "24339",
-          "score": -7.489502,
+          "score": -7.463888,
           "sum": 21,
           "span": 7,
           "models": {
@@ -1041,7 +1041,7 @@
         {
           "rank": 17,
           "number": "63833",
-          "score": -7.491953,
+          "score": -7.465072,
           "sum": 23,
           "span": 5,
           "models": {
@@ -1054,7 +1054,7 @@
         {
           "rank": 18,
           "number": "64331",
-          "score": -7.494798,
+          "score": -7.469947,
           "sum": 17,
           "span": 5,
           "models": {
@@ -1067,7 +1067,7 @@
         {
           "rank": 19,
           "number": "64330",
-          "score": -7.500416,
+          "score": -7.475168,
           "sum": 16,
           "span": 6,
           "models": {
@@ -1080,7 +1080,7 @@
         {
           "rank": 20,
           "number": "93323",
-          "score": -7.50402,
+          "score": -7.476327,
           "sum": 20,
           "span": 7,
           "models": {
@@ -1095,7 +1095,7 @@
         {
           "rank": 6,
           "number": "64323",
-          "score": -7.372119,
+          "score": -7.348899,
           "sum": 18,
           "span": 4,
           "models": {
@@ -1108,7 +1108,7 @@
         {
           "rank": 2,
           "number": "63339",
-          "score": -7.577373,
+          "score": -7.549877,
           "sum": 24,
           "span": 6,
           "models": {
@@ -1121,7 +1121,7 @@
         {
           "rank": 1,
           "number": "94333",
-          "score": -7.109696,
+          "score": -7.087792,
           "sum": 22,
           "span": 6,
           "models": {
