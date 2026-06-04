@@ -1,6 +1,6 @@
 {
   "date": "2026-06-05",
-  "created_at": "2026-06-05T04:30:49",
+  "created_at": "2026-06-05T06:11:26",
   "lotteries": {
     "fc3d": {
       "name": "中国福利彩票 3D",
@@ -79,11 +79,15 @@
           2,
           4,
           6,
-          9
+          7
         ],
         "sum_ranges": [
           [
             5,
+            26
+          ],
+          [
+            6,
             26
           ]
         ],
@@ -107,11 +111,11 @@
         {
           "rank": 1,
           "number": "276",
-          "score": -5.065455,
+          "score": -5.071569,
           "sum": 15,
           "span": 5,
           "models": {
-            "legacy": -6.088,
+            "legacy": -6.1202,
             "markov": -5.6359,
             "bayes": -6.0522,
             "shape": -3.7092
@@ -120,11 +124,11 @@
         {
           "rank": 2,
           "number": "278",
-          "score": -5.220301,
+          "score": -5.226416,
           "sum": 17,
           "span": 6,
           "models": {
-            "legacy": -6.9013,
+            "legacy": -6.9335,
             "markov": -5.0487,
             "bayes": -6.3196,
             "shape": -3.9017
@@ -159,11 +163,11 @@
         {
           "rank": 5,
           "number": "270",
-          "score": -5.328646,
+          "score": -5.33476,
           "sum": 9,
           "span": 7,
           "models": {
-            "legacy": -6.7685,
+            "legacy": -6.8008,
             "markov": -5.6359,
             "bayes": -5.8969,
             "shape": -4.1402
@@ -185,11 +189,11 @@
         {
           "rank": 7,
           "number": "275",
-          "score": -5.390453,
+          "score": -5.396567,
           "sum": 14,
           "span": 5,
           "models": {
-            "legacy": -7.0495,
+            "legacy": -7.0817,
             "markov": -5.0487,
             "bayes": -6.5632,
             "shape": -4.1402
@@ -211,11 +215,11 @@
         {
           "rank": 9,
           "number": "273",
-          "score": -5.402702,
+          "score": -5.408817,
           "sum": 12,
           "span": 5,
           "models": {
-            "legacy": -7.0686,
+            "legacy": -7.1009,
             "markov": -5.0487,
             "bayes": -6.6051,
             "shape": -4.1402
@@ -237,11 +241,11 @@
         {
           "rank": 11,
           "number": "274",
-          "score": -5.423785,
+          "score": -5.429899,
           "sum": 13,
           "span": 5,
           "models": {
-            "legacy": -7.0322,
+            "legacy": -7.0644,
             "markov": -5.6359,
             "bayes": -6.116,
             "shape": -4.1402
@@ -249,6 +253,19 @@
         },
         {
           "rank": 12,
+          "number": "296",
+          "score": -5.459619,
+          "sum": 17,
+          "span": 7,
+          "models": {
+            "legacy": -6.922,
+            "markov": -6.1976,
+            "bayes": -6.2398,
+            "shape": -3.9017
+          }
+        },
+        {
+          "rank": 13,
           "number": "268",
           "score": -5.463319,
           "sum": 16,
@@ -261,26 +278,13 @@
           }
         },
         {
-          "rank": 13,
-          "number": "296",
-          "score": -5.465733,
-          "sum": 17,
-          "span": 7,
-          "models": {
-            "legacy": -6.9542,
-            "markov": -6.1976,
-            "bayes": -6.2398,
-            "shape": -3.9017
-          }
-        },
-        {
           "rank": 14,
           "number": "298",
-          "score": -5.480858,
+          "score": -5.474743,
           "sum": 19,
           "span": 7,
           "models": {
-            "legacy": -7.4218,
+            "legacy": -7.3896,
             "markov": -5.6104,
             "bayes": -6.5073,
             "shape": -3.9017
@@ -369,11 +373,11 @@
         {
           "rank": 1,
           "number": "276",
-          "score": -5.065455,
+          "score": -5.071569,
           "sum": 15,
           "span": 5,
           "models": {
-            "legacy": -6.088,
+            "legacy": -6.1202,
             "markov": -5.6359,
             "bayes": -6.0522,
             "shape": -3.7092
@@ -382,11 +386,11 @@
         {
           "rank": 2,
           "number": "278",
-          "score": -5.220301,
+          "score": -5.226416,
           "sum": 17,
           "span": 6,
           "models": {
-            "legacy": -6.9013,
+            "legacy": -6.9335,
             "markov": -5.0487,
             "bayes": -6.3196,
             "shape": -3.9017
